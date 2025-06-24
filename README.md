@@ -411,7 +411,7 @@ For more detailed information about Open-Meteo API:
 
 ### 7 Day Forecast & Weather Details
 
-![7 Day Forecast](src/assets/Screensho2.png)
+![7 Day Forecast](src/assets/Screenshot2.png)
 
 ![Weather Dashboard](src/assets/Screenshot1.png)
 
