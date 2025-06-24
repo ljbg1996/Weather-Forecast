@@ -407,3 +407,11 @@ For more detailed information about Open-Meteo API:
 - [API Documentation](https://open-meteo.com/en/docs)
 - [GitHub Repository](https://github.com/open-meteo/open-meteo)
 
+## Screenshots
+
+### 7 Day Forecast & Weather Details
+
+![7 Day Forecast](src/assets/Screenshot%202025-06-24%20at%2016.15.55.png)
+
+![Weather Dashboard](src/assets/Screenshot%202025-06-24%20at%2016.15.46.png)
+
